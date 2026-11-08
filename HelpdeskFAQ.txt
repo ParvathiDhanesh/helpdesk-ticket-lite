@@ -1,0 +1,30 @@
+IT HELPDESK FAQ
+
+How do I reset my VPN password?
+1. Open the VPN app and click "Forgot password".
+2. Enter your work email and click Send code.
+3. Enter the 6-digit code and choose a new password.
+4. Restart the VPN app and sign in.
+If you do not receive the code within 10 minutes, raise a ticket under the Access category.
+
+My Wi-Fi is not working. What should I do?
+1. Turn Wi-Fi off and on again.
+2. Forget the office network and reconnect.
+3. Restart your laptop.
+If other people are also affected, raise a Network ticket with High priority.
+
+My laptop will not start.
+1. Plug in the charger and wait 10 minutes.
+2. Hold the power button for 15 seconds, then press it once.
+3. Remove any USB devices and try again.
+If it still does not start, raise a Hardware ticket.
+
+How do I reset my email password?
+1. Go to the company sign-in page and click "Forgot my password".
+2. Verify with your phone and set a new password.
+If you cannot verify, raise an Access ticket.
+
+My printer is not connecting.
+1. Check that the printer is on and connected to the same network.
+2. Remove and re-add the printer in your settings.
+If it still fails, raise a Hardware ticket with Low priority.
